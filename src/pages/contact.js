@@ -1,6 +1,6 @@
-import React from "react"
-import { Link } from "gatsby"
-import Header from "../components/header"
+import React from "react";
+import { Link } from "gatsby";
+import Header from "../components/header";
 
 export default function Contact() {
   return (
@@ -9,5 +9,5 @@ export default function Contact() {
       <Header headerText="Contact" />
       <p>Send me a message!</p>
     </div>
-  )
+  );
 }
