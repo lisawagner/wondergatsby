@@ -1,4 +1,5 @@
-.special {
-    background: red;
-    color: white;
-  }
+.container {
+  margin: 3rem auto;
+  max-width: 80vw;
+  padding: 0 1rem;
+}
